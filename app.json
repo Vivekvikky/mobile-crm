@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Office_crm",
+    "slug": "Office_crm",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.pis.crm"
+    },
+    "android": {
+      "package": "com.pis.crm"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf"
+      ]
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "PIS",
+  "name": "PIS"
+}
